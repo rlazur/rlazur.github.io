@@ -1,6 +1,5 @@
 # To-Do
-- [ ] port CV -> HTML
-- [ ] import Jekyll style
+- [ ] format ul (and nested ul) in CV to auto-indent
 - [ ] break blog into sections (general, running, science, veganism)
 
 # Coding Ideas
